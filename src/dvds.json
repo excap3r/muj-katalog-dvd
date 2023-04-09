@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "id": 1,
+      "name": "Název složky",
+      "pages": [
+        [
+          "Název filmu 1",
+          "Název filmu 2"
+        ],
+        [
+          "Název filmu 3",
+          "Název filmu 4"
+        ]
+      ]
+    }
+  ]
+}
