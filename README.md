@@ -8,8 +8,6 @@ Projekt "Můj katalog DVD" vznikl pro mého dědu, který stále používá DVD 
 
 1.  Klonujte tento repozitář:
 
-bash
-
 ```bash
 git clone https://github.com/vaserepo/muj-katalog-dvd.git
 ```
@@ -20,9 +18,7 @@ git clone https://github.com/vaserepo/muj-katalog-dvd.git
 
 3.  Spusťte aplikaci:
 
-sql
-
-```sql
+```bash
 npm start
 ```
 
@@ -31,9 +27,8 @@ npm start
 
 Pro vytvoření produkční verze aplikace spusťte následující příkaz:
 
-arduino
 
-```arduino
+```bash
 npm run build
 ```
 
