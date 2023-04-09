@@ -9,7 +9,7 @@ Projekt "Můj katalog DVD" vznikl pro mého dědu, který stále používá DVD 
 1.  Klonujte tento repozitář:
 
 ```bash
-git clone https://github.com/vaserepo/muj-katalog-dvd.git
+git clone https://github.com/excap3r/muj-katalog-dvd.git
 ```
 
 2.  Nainstalujte závislosti:
